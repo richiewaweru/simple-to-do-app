@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/richi/.android/simple_to_do/app/src/main/res/layout/activity_main.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/richi/AndroidStudioProjects/simple_to_do/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/richi/AndroidStudioProjects/simple_to_do/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1555" />
+        <entry key="..\:/Users/richi/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
